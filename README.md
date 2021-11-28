@@ -1,2 +1,4 @@
 # release-orga
-Empty project for relase planning via issues/project cards
+(Towo):
+Kde Plasma sieht gut aus, kann getestet werden
+Xorg scheint nach viel Mühe auch zu funktionieren
