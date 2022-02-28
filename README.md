@@ -1,4 +1,3 @@
-# release-orga
-(Towo):
-Kde Plasma sieht gut aus, kann getestet werden
-Xorg scheint nach viel Mühe auch zu funktionieren
+# Planning our next release
+
+Feel free to chime in, add issues and proposals!
