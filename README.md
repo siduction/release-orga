@@ -2,16 +2,23 @@
 
 Feel free to chime in, add issues and proposals!
 
-<h3>Planning for siduction 2023.1</h3>
+## Planning for siduction 2025.1
 
-<h4>General Planning</h4>
+### General Planning
 
-<b>Release schedule</b>
-* How many more releases do we want to / can we do in 2023?
-* Do we want to release one before Plasma 6 arrives?
-* If we want to integrate Timeshift, maybe it's a good idea to do that somewhwn before the one for Plasma 6.
+**Release schedule**
+* How many more releases do we want to / can we do in 2025?
+  * A snapshot every two months at testbuilds.siduction.org
+* If we want to integrate Timeshift, maybe it's a good idea to do it now.
 
-
-<b>New features:</b>
+**New features:**
 * Add Timeshift to package list
-* set it up to do a first image right after install
+  * set it up to do a first image right after install
+
+**Enhancement:**
+* The configuration of XFCE requires our attention.
+  * The switch to Weyland may make work easier.
+* APT signatures
+  https://github.com/siduction/release-orga/issues/26
++ Insert os-release file
+  https://github.com/siduction/release-orga/issues/25
