@@ -28,6 +28,8 @@ Feel free to chime in, add issues and proposals!
 * Insert os-release file
   https://github.com/siduction/release-orga/issues/25
 * Revise cli installer
-  + Grep locales and set it into cli.
+  + **gdisk** is absolutely essential. It belongs back into the ISOs.
+  + Support nvme.
+  + On TTY wrong border and shadow.
   + Add btrfs support.
   + Add Bootmanager selection with a choice of Grub or systemd-boot.
