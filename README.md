@@ -2,7 +2,7 @@
 
 Feel free to chime in, add issues and proposals!
 
-## Planning for siduction 2025.1
+## Planning for siduction 2025.2
 
 ### General Planning
 
