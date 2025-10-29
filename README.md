@@ -12,7 +12,7 @@ Feel free to chime in, add issues and proposals!
 * If we want to integrate Timeshift, maybe it's a good idea to do it now.
 
 **New features:**
-* Add Timeshift to package list
+* # Add Timeshift to package list # Rejected
   * set it up to do a first image right after install
 * Calamares, new module Bootmanager selection with a choice of Grub or systemd-boot.
 * possibly Limine as bootloader instead of GRUB. It offers a nice tool for Snapper called [limine-snapper-sync](https://gitlab.com/Zesko/limine-snapper-sync), that allows direct booting into any Snapper snapshot directly from the bootloader menu.
