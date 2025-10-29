@@ -24,8 +24,6 @@ Feel free to chime in, add issues and proposals!
   * [x] When the desktop is inactive: Icon text background transparent instead of gray.  
         Refer to: https://github.com/siduction/settings-xfce/issues/5
   * The switch to Weyland may make work easier?
-* APT signatures
-  https://github.com/siduction/release-orga/issues/26
 * Insert os-release file
   https://github.com/siduction/release-orga/issues/25
 * Revise cli installer
