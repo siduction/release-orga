@@ -17,6 +17,7 @@ Feel free to chime in, add issues and proposals!
 * Calamares, new module Bootmanager selection with a choice of Grub or systemd-boot.
 * possibly Limine as bootloader instead of GRUB. It offers a nice tool for Snapper called [limine-snapper-sync](https://gitlab.com/Zesko/limine-snapper-sync), that allows direct booting into any Snapper snapshot directly from the bootloader menu.
 * allow bcachefs through DKMS: https://linuxnews.de/bcachefs-via-dkms-in-debian-und-ubuntu/
+
 **Enhancement:**
 * The configuration of XFCE requires our attention.
   * [x] Do not truncate the desktop icon text but wrap it.
