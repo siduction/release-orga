@@ -9,7 +9,6 @@ Feel free to chime in, add issues and proposals!
 **Release schedule**
 * How many more releases do we want to / can we do in 2025?
   * A snapshot every two months at testbuilds.siduction.org
-* If we want to integrate Timeshift, maybe it's a good idea to do it now.
 
 **New features:**
 *
