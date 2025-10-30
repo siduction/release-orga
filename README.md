@@ -12,11 +12,11 @@ Feel free to chime in, add issues and proposals!
 
 **New features:**
 *
-* ~~Add Timeshift to package list~~ # Rejected
-  * set it up to do a first image right after install
+* ~~Add Timeshift to package list~~  
+  ~~set it up to do a first image right after install~~ # Rejected
 * Calamares, new module Bootmanager selection with a choice of Grub or systemd-boot.
-* possibly Limine as bootloader instead of GRUB. It offers a nice tool for Snapper called [limine-snapper-sync](https://gitlab.com/Zesko/limine-snapper-sync), that allows direct booting into any Snapper snapshot directly from the bootloader menu.
-* allow bcachefs through DKMS: https://linuxnews.de/bcachefs-via-dkms-in-debian-und-ubuntu/
+* possibly Limine as bootloader instead of GRUB. It offers a nice tool for Snapper called [limine-snapper-sync](https://gitlab.com/Zesko/limine-snapper-sync), that allows direct booting into any Snapper snapshot directly from the bootloader menu. # Not now, because exclusively with efi.
+* allow bcachefs through DKMS: [linuxnews.de, 23.09.2025](https://linuxnews.de/bcachefs-via-dkms-in-debian-und-ubuntu/)
 
 **Enhancement:**
 * The configuration of XFCE requires our attention.
@@ -26,7 +26,7 @@ Feel free to chime in, add issues and proposals!
   * The switch to Weyland may make work easier?
 * Insert os-release file
   https://github.com/siduction/release-orga/issues/25
-* Revise cli installer
+* Revise cli-installer / fll-installer
   + **gdisk** is absolutely essential. It belongs back into the ISOs.
   + Support nvme.
   + On TTY wrong border and shadow.
