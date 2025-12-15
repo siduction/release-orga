@@ -15,7 +15,7 @@ Feel free to chime in, add issues and proposals!
 * ~~Add Timeshift to package list~~  
   ~~set it up to do a first image right after install~~ # Rejected
 * Calamares, new module Bootmanager selection with a choice of Grub or systemd-boot.
-* possibly Limine as bootloader instead of GRUB. It offers a nice tool for Snapper called [limine-snapper-sync](https://gitlab.com/Zesko/limine-snapper-sync), that allows direct booting into any Snapper snapshot directly from the bootloader menu. # Not now, because exclusively with efi.
+* ~~possibly Limine as bootloader instead of GRUB. It offers a nice tool for Snapper called [limine-snapper-sync](https://gitlab.com/Zesko/limine-snapper-sync), that allows direct booting into any Snapper snapshot directly from the bootloader menu.~~ # Not now, because exclusively with efi. Keep it in here for later
 * allow bcachefs through DKMS: [linuxnews.de, 23.09.2025](https://linuxnews.de/bcachefs-via-dkms-in-debian-und-ubuntu/)
 
 **Enhancement:**
