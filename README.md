@@ -27,8 +27,9 @@ Feel free to chime in, add issues and proposals!
 * Insert os-release file
   https://github.com/siduction/release-orga/issues/25
 * Revise cli-installer / fll-installer
-  + **gdisk** is absolutely essential. It belongs back into the ISOs.
-  + Support nvme.
+  + [x] ~~**gdisk** is absolutely essential. It belongs back into the ISOs.~~
+    + fdisk (now) supports gpt. Most queries are easier with lsblk and blkid.  
+  + [x] Support nvme.
+  + [x] Add btrfs support.
   + On TTY wrong border and shadow.
-  + Add btrfs support.
   + Add Bootmanager selection with a choice of Grub or systemd-boot.
