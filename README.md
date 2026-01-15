@@ -31,5 +31,7 @@ Feel free to chime in, add issues and proposals!
     + fdisk (now) supports gpt. Most queries are easier with lsblk and blkid.  
   + [x] Support nvme.
   + [x] Add btrfs support.
+  + [x] Add check for internet connection.
+  + [x] Add a query from non-free sources.
   + On TTY wrong border and shadow.
   + Add Bootmanager selection with a choice of Grub or systemd-boot.
