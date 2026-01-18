@@ -11,7 +11,7 @@ Feel free to chime in, add issues and proposals!
   * A snapshot every two months at testbuilds.siduction.org
 
 **New features:**
-*
+* Can we add the new Plasma Login Manager standalone or as alternative?
 * ~~Add Timeshift to package list~~  
   ~~set it up to do a first image right after install~~ # Rejected
 * Calamares, new module Bootmanager selection with a choice of Grub or systemd-boot.
