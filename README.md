@@ -33,5 +33,5 @@ Feel free to chime in, add issues and proposals!
   + [x] Add btrfs support.
   + [x] Add check for internet connection.
   + [x] Add a query from non-free sources.
-  + On TTY wrong border and shadow.
-  + Add Bootmanager selection with a choice of Grub or systemd-boot.
+  + On TTY wrong border and shadow when 'su' is used instead of 'sudo' in the live system.
+  + [x] Add Bootmanager selection with a choice of Grub or systemd-boot.
