@@ -2,12 +2,12 @@
 
 Feel free to chime in, add issues and proposals!
 
-## Planning for siduction 2025.2
+## Planning for siduction 2026.1
 
 ### General Planning
 
 **Release schedule**
-* How many more releases do we want to / can we do in 2025?
+* How many more releases do we want to / can we do in 2026?
   * A snapshot every two months at testbuilds.siduction.org
 
 **New features:**
