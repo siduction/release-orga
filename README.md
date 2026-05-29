@@ -33,6 +33,6 @@ Feel free to chime in, add issues and proposals!
   + [x] Add btrfs support.
   + [x] Add check for internet connection.
   + [x] Add a query from non-free sources.
-  + On TTY wrong border and shadow when 'su' is used instead of 'sudo' in the live system.
+  + [x] Fixed: On TTY wrong border and shadow when 'su' is used instead of 'sudo' in the live system.
   + [x] cli-installer: Add Bootmanager selection with a choice of Grub or systemd-boot.
-  + [ ] fll-installer: Installation with systemd-boot.
+  + [x] fll-installer: Installation with systemd-boot.
