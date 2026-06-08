@@ -28,12 +28,13 @@ Feel free to chime in, add issues and proposals!
   https://github.com/siduction/release-orga/issues/25
 * Revise cli-installer / fll-installer
   + [x] ~~**gdisk** is absolutely essential. It belongs back into the ISOs.~~
-    + fdisk (now) supports gpt. Most queries are easier with lsblk and blkid.  
-  + [x] Support nvme.
-  + [x] Add btrfs support.
-  + [x] Add check for internet connection.
-  + [x] Add a query from non-free sources.
-  + [x] Fixed: On TTY wrong border and shadow when 'su' is used instead of 'sudo' in the live system.
+    + fdisk (now) supports gpt. Most queries are easier with lsblk and blkid.
+  + [x] both: Support nvme.
+  + [x] both: Add btrfs support.
+  + [x] cli-installer: Add check for internet connection.
+  + [x] cli-installer: Add a query from non-free sources.
+  + [x] cli-installer: Fixed: On TTY wrong border and shadow when 'su' is used instead of 'sudo' in the live system.
   + [x] cli-installer: Add Bootmanager selection with a choice of Grub or systemd-boot.
+  + [x] cli-installer: Allows the user to specify custom mount points.
   + [x] fll-installer: Installation with systemd-boot.
   + [x] fll-installer: Insert os-release file.
